@@ -15,4 +15,4 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Apoixonado por tecnologia, programação e aprender novas linguagens de porgramação.
+Apaixonado por tecnologia, programação e aprender novas linguagens de programação.
