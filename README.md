@@ -7,3 +7,12 @@
 
 ![Cândido GitHub stats](https://github-readme-stats.vercel.app/api?username=devcardososilva&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcardososilva&hide_progress=true)
+
+### Tecnologias que eu uso no meu dia 
+<div style="display: inline_block"><br/>
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div><br/>
+
+Apoixonado por tecnologia, programação e aprender novas linguagens de porgramação.
