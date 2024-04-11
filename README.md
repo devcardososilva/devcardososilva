@@ -6,6 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.candidosilva@gmail.com?subject=&body=)
 
 ![Cândido GitHub stats](https://github-readme-stats.vercel.app/api?username=devcardososilva&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia 
