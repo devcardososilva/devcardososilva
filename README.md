@@ -7,8 +7,7 @@
 
 ![Cândido GitHub stats](https://github-readme-stats.vercel.app/api?username=devcardososilva&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcardososilva&size_weight=0.5&count_weight=0.5)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcardososilva&layout=compact)
 ### Tecnologias que eu uso no meu dia 
 <div style="display: inline_block"><br/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
